@@ -1,0 +1,11 @@
+.item{
+    display: inline-block;
+}
+.img-size{
+    width: 250px;
+    border-radius: 10px;
+}
+.film-title{
+    text-align: center;
+    /* background-color: red; */
+}
